@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceApi", "WorkerServiceApi\WorkerServiceApi.csproj", "{F8EA74E1-BA5C-4A50-B234-44CAA49C636A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service1", "Service1\Service1.csproj", "{F62B00EC-EBEF-4006-92FA-38672A651A9D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CpuInsta", "CpuInsta\CpuInsta.vdproj", "{8740A137-FDA3-4D46-94EC-DBCBA24DD460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8EA74E1-BA5C-4A50-B234-44CAA49C636A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EA74E1-BA5C-4A50-B234-44CAA49C636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EA74E1-BA5C-4A50-B234-44CAA49C636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EA74E1-BA5C-4A50-B234-44CAA49C636A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62B00EC-EBEF-4006-92FA-38672A651A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62B00EC-EBEF-4006-92FA-38672A651A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62B00EC-EBEF-4006-92FA-38672A651A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62B00EC-EBEF-4006-92FA-38672A651A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8740A137-FDA3-4D46-94EC-DBCBA24DD460}.Debug|Any CPU.ActiveCfg = Debug
+		{8740A137-FDA3-4D46-94EC-DBCBA24DD460}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE4EF4A-9830-460E-BABD-39918953CD06}
+	EndGlobalSection
+EndGlobal
